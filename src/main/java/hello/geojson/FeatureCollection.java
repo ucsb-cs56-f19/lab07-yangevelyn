@@ -10,6 +10,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 public class FeatureCollection {
   public String type;
     private static Logger logger = LoggerFactory.getLogger(FeatureCollection.class);
+   public Metadata metadata;
 
      /**
      * Create a FeatureCollection object from json representation
