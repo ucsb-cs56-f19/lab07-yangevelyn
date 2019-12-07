@@ -2,6 +2,8 @@ Documentation Web Page: https://ucsb-cs56-f19.github.io/lab07-yangevelyn/
 
 Heroku App: https://cs56-f19-lab07-yangevelyn.herokuapp.com
 
+Travis-CI: https://travis-ci.org/ucsb-cs56-f19/lab07-yangevelyn
+
 A simple Spring Boot webapp using:
 * Thymeleaf templating
 * Pulling in Bootstrap from CDN.
